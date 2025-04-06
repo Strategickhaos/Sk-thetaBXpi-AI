@@ -1,2 +1,8 @@
-# Sk-thetaBXpi-AI
-AI-driven terminal deployment system. Codename: Stratigickhaos to the power of Boogie Down Bronx over AI.
+# S?-?BXp / A?
+
+Autonomous AI Terminal Agent built by Junior.
+Executes command logic via neural pathways and trigonometric reasoning.
+
+- core.py ? main loop
+- ix_all_and_run.ps1 ? installer/runner
+- deploy/deploy_repo.ps1 ? GitHub auto-pusher
