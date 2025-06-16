@@ -1,6 +1,6 @@
 # S?-?BXp / A?
 
-Autonomous AI Terminal Agent built by Junior.
+Autonomous AI Terminal Agent built Stratigickhaos.
 Executes command logic via neural pathways and trigonometric reasoning.
 
 - core.py ? main loop
