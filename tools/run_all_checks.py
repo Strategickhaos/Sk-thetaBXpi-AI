@@ -260,7 +260,7 @@ def main():
     
     try:
         with open(report_path, 'w') as f:
-            json.dump(report, indent=2, fp=f)
+            json.dump(report, f, indent=2)
         print(f"\n✓ Report saved to: {report_path}")
     except Exception as e:
         print(f"\n⚠ Could not save report: {e}")
